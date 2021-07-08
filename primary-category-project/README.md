@@ -8,7 +8,8 @@
 1. Navigate to  settings page.
     - Settings -> Primary Category
     - Plugins page -> Settings link in Primary Category Project
-    - 
+    
+    
 2. Add/Edit Post and select primary category	
 	
 
