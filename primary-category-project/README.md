@@ -8,10 +8,13 @@
 1. Navigate to  settings page.
     - Settings -> Primary Category
     - Plugins page -> Settings link in Primary Category Project
+    - 
+2. Add/Edit Post and select primary category	
 	
 
-
 #### How to use
+
+Use following shortcode to display result
 
 ```PHP
 [primarycategory_posts post_type="post" taxonomy="category" primary_taxonomy_id="30"]
